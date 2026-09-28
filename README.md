@@ -3,5 +3,5 @@
 ## Current Stack:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,postgres,java,c,cpp,git,github" alt="Full stack tech logos" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,python,java,cs,cpp,postgres,git" alt="Full stack tech logos" />
 </p>
