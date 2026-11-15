@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="1146px" height="540px" font-size="16px">
+<style>@font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%;}.key{fill:#953800;}.value{fill:#0a3069;}.addColor{fill:#1a7f37;}.delColor{fill:#cf222e;}.cc{fill:#c2cfde;}.frame{fill:#0d1117;font-weight:bold;}text,tspan{white-space:pre;}</style>
+<rect width="1146px" height="540px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#424a53" font-size="13px" class="ascii">
+<tspan x="15" y="30"></tspan>
+<tspan x="15" y="46">                       k;`.. ;;. . .</tspan>
+<tspan x="15" y="62">                  . .!|jl!;!:;:;:|%;,l:''</tspan>
+<tspan x="15" y="78">             . `jpgmbMbgm%!!;;;;`':`|k%jj%</tspan>
+<tspan x="15" y="94">            .|%pggbbjbmgw!;`,  . `:,!||jik|</tspan>
+<tspan x="15" y="110">         .`l%kpbgpgMHbwbpmmjl; '    `,`;%bw,</tspan>
+<tspan x="15" y="126">        . :i!ggH|pjk%l:`:!pmwii;|ljl|,|mp%kll</tspan>
+<tspan x="15" y="142">       .' ,!%|l,kkl;.'':,i|;!;`'  .'!'.  ;||%.</tspan>
+<tspan x="15" y="158">        ` :;'  ` !';|,''' '.   '   ':   iji;' .</tspan>
+<tspan x="15" y="174">       .                     `;!'`jjkl:;|li. .</tspan>
+<tspan x="15" y="190">       `                       :         ;j   . .</tspan>
+<tspan x="15" y="206">       .                               .  , ;,,: .</tspan>
+<tspan x="15" y="222">                                       ;,|!jl!w</tspan>
+<tspan x="15" y="238">       '                  :l,       ,ili;jpk'| .</tspan>
+<tspan x="15" y="254">       ,                 ;m% :    :|jk%kwkH@p|.</tspan>
+<tspan x="15" y="270"> .     .                 jl, ::'',!|wmwwpbgp@%</tspan>
+<tspan x="15" y="286">!!|;;'.                 `;%! `;|iiljkk%j|%HMgp.</tspan>
+<tspan x="15" y="302">`:`..:                   ;|kbmklilkpmjl|ilp'..</tspan>
+<tspan x="15" y="318">`..                     `;,'il ;jkmpwlli!,kwl</tspan>
+<tspan x="15" y="334">     .                `,;!!!;` .|lj%jji,;' :@.</tspan>
+<tspan x="15" y="350">               :::':::,,,;!!,`.':,:,|j%gMMHg@k;;.</tspan>
+<tspan x="15" y="366">               ,ll||i!,:':'''`     .pMM@@Hgl!kH@@M</tspan>
+<tspan x="15" y="382">                |ii!,:`'''`.       |bMH@kk:  :H@@@.</tspan>
+<tspan x="15" y="398">                 !;,'.:ii;;,'`     kbmmw,'   %M@MM;</tspan>
+<tspan x="15" y="414">                  `'',;;;,::`        ,jl;!im@@HHpk,</tspan>
+<tspan x="15" y="430">                               '      %lkmbg@@bm%l'</tspan>
+<tspan x="15" y="446">                  ;:`           .`;   ':|kkkk%j|!%,</tspan>
+<tspan x="15" y="462">                   :`                     %jkk|l%%k.</tspan>
+<tspan x="15" y="478">                  :'                      :ilkjwkkg|</tspan>
+<tspan x="15" y="494">                 i|'                       %'ipw!ij:</tspan>
+<tspan x="15" y="510">                                           wwwgbkj;</tspan>
+</text>
+<text x="510" y="30" fill="#24292f">
+<tspan x="510" y="30">leo@heinaung -------------------------------------------------—-</tspan>
+<tspan x="510" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................................... </tspan><tspan class="value">macOS</tspan></tspan>
+<tspan x="510" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">1 year, 2 months, 14 days</tspan></tspan>
+<tspan x="510" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">Liberty IT</tspan></tspan>
+<tspan x="510" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Software Engineering Intern</tspan></tspan>
+<tspan x="510" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">IntelliJ IDEA, VS Code</tspan></tspan>
+<tspan x="510" y="150"><tspan class="cc">. </tspan><tspan class="key">Terminal</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">zsh, bash</tspan></tspan>
+<tspan x="510" y="170"><tspan class="cc">. </tspan></tspan>
+<tspan x="510" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> . </tspan><tspan class="value">Java, C++, TypeScript, React, Express</tspan></tspan>
+<tspan x="510" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">SQL, JSON, YAML, MD, shell</tspan></tspan>
+<tspan x="510" y="230"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">English</tspan></tspan>
+<tspan x="510" y="250"><tspan class="cc">. </tspan></tspan>
+<tspan x="510" y="270"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Claude Code, Spotify</tspan></tspan>
+<tspan x="510" y="290"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Hardware</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Overclocking, Undervolting</tspan></tspan>
+<tspan x="510" y="310"><tspan class="cc">. </tspan></tspan>
+<tspan x="510" y="330">- Contact ----------------------------------------------------—-</tspan>
+<tspan x="510" y="350"><tspan class="cc">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">leo.he1nn.contact@gmail.com</tspan></tspan>
+<tspan x="510" y="370"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">linkedin.com/in/leoheinn/</tspan></tspan>
+<tspan x="510" y="390"><tspan class="cc">. </tspan><tspan class="key">LeetCode</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">leetcode.com/u/FTi5DjCwOI/</tspan></tspan>
+<tspan x="510" y="410"><tspan class="cc">. </tspan></tspan>
+<tspan x="510" y="430">- Config -----------------------------------------------------—-</tspan>
+<tspan x="510" y="450"><tspan class="cc">. </tspan><tspan class="key">Keyboard</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Keychron K2, Wooting 60HE</tspan></tspan>
+<tspan x="510" y="470"><tspan class="cc">. </tspan><tspan class="key">Fuel</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Red Bull, Caffeine</tspan></tspan>
+<tspan x="510" y="490"><tspan class="cc">. </tspan><tspan class="key">Games</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Sheepy : Short Adventure, eFootball</tspan></tspan>
+<tspan x="510" y="510"><tspan class="cc">. </tspan><tspan class="key">Favourite.DS</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">HashMap, TreeSet</tspan></tspan>
+</text></svg>
